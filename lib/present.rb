@@ -8,5 +8,4 @@ class Present
       fail "No contents have been wrapped." if @contents.nil?
       return @contents
     end
-  
 end
